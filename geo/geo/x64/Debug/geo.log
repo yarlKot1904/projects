@@ -1,0 +1,8 @@
+﻿  CompositeShape.cpp
+  Isotrapezium.cpp
+C:\Users\Егор\source\repos\geo\geo\Isotrapezium.cpp(57,10): warning C4552: "-": результат выражения не используется
+  geo.cpp
+  rectangle.cpp
+C:\Users\Егор\source\repos\geo\geo\rectangle.cpp(57,10): warning C4552: "-": результат выражения не используется
+  Создание кода...
+  geo.vcxproj -> C:\Users\Егор\source\repos\geo\x64\Debug\geo.exe
