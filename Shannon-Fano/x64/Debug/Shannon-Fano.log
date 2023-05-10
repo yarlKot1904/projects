@@ -1,0 +1,5 @@
+﻿  Shannon-Fano.cpp
+C:\Users\User\source\repos\Shannon-Fano\Shannon-Fano\Shannon-Fano.cpp(85,30): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\User\source\repos\Shannon-Fano\Shannon-Fano\Shannon-Fano.cpp(95,22): warning C4244: =: преобразование "unsigned __int64" в "uint8_t", возможна потеря данных
+C:\Users\User\source\repos\Shannon-Fano\Shannon-Fano\Shannon-Fano.cpp(102,12): warning C4101: m: неиспользованная локальная переменная
+  Shannon-Fano.vcxproj -> C:\Users\User\source\repos\Shannon-Fano\x64\Debug\Shannon-Fano.exe
