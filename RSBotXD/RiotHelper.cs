@@ -27,7 +27,7 @@ namespace RSBotXD
         
         private RiotHelper()
         {
-            api = RiotApi.GetDevelopmentInstance("RGAPI-dddc8b39-0dd7-46fa-aeae-25a5e26b5190");
+            api = RiotApi.GetDevelopmentInstance("---");
             championStatic = api.DataDragon.Champions.GetAllAsync("14.1.1", Language.ru_RU).Result;
 
 
