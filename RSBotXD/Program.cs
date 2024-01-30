@@ -63,7 +63,7 @@ namespace RSBotXD
             //    Console.WriteLine("ПОБЕДА");
             //await RiotHelper.Instance.GetInfoAboutPlayer("yarlKot");
 
-            var token = "MTE5NTc0OTA3NDY1MDAwNTUxNA.G6I4xm.gMWHWNvfaUgWsck4kMwGjrFAqyWbLlYWULbW5Q";
+            var token = "---";
 
             await client.LoginAsync(TokenType.Bot, token);
             await client.StartAsync();
